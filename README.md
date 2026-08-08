@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ronny 👋 (@ronny-labs)
 
-<!--
-**Ronny-Labs/Ronny-Labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my development space! I am a Class 10 CBSE student passionate about Software Engineering, Artificial Intelligence, and Machine Learning.
 
-Here are some ideas to get you started:
+## 🛠️ Current Tech & Tools
+- **Languages:** Python, C++ (Arduino/Embedded Systems)
+- **Frameworks:** IoT Automation Systems, Logic Design
+- **Interests:** Machine Learning Algorithms, Data Analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Key Achievements
+- **1st Place Winner** | Cluster Level Science Exhibition (Smart Greenhouse using Arduino Uno & IoT logic)
+- **Olympiads:** Math Olympiad (Class 9), currently preparing for the Earth Olympiad (Class 10)
+
+## 🎯 Long-Term Trajectory
+- **Target Universities:** National University of Singapore (NUS) / Nanyang Technological University (NTU)
+- **Core Focus:** Building high-utility software engineering portfolios and intelligent automation frameworks.
