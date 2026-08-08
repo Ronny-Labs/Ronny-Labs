@@ -1,4 +1,6 @@
-# Hi, I'm Ronny 👋 (@Ronny-Labs)
+#Hi There, I'm Pratyush Pallav Pathak 👋
+
+ (# I'm also Known online as Ronny 👋 (@Ronny-Labs))
 
 Welcome to my development space! I am a Class 10 CBSE student passionate about **Software Engineering, Artificial Intelligence, Machine Learning, and Game Development**.
 
