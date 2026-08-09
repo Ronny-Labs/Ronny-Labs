@@ -1,8 +1,15 @@
-#Hi There, I'm Pratyush Pallav Pathak 👋
+# Hi, I'm Pratyush Pallav Pathak (Ronny) 👋
 
- (# I'm also Known online as Ronny 👋 (@Ronny-Labs))
+Student maker focused on Arduino, IoT and small game-dev projects. I build hands-on prototypes and share code and wiring diagrams so others can learn and reuse.
 
-Welcome to my development space! I am a Class 10 CBSE student passionate about **Software Engineering, Artificial Intelligence, Machine Learning, and Game Development**.
+---
+
+## Featured projects
+
+- **Smart-Greenhouse-IOT** — an Arduino-based greenhouse model with sensor logging and automatic watering. See: https://github.com/Ronny-Labs/Smart-Greenhouse-IOT
+- **Game-dev-certificate** — proof of progress in game development learning and projects. See: https://github.com/Ronny-Labs/Game-dev-certificate
+
+---
 
 ## 🛠️ Current Tech & Tools
 
@@ -11,24 +18,43 @@ Welcome to my development space! I am a Class 10 CBSE student passionate about *
 - **Frameworks & Systems:** IoT Automation Systems, Logic Design
 - **Interests:** Machine Learning Algorithms, Data Analysis, Game Development & UI/UX
 
+---
+
 ## 🏆 Key Achievements
 
-- 🥇 **1st Place Winner — Cluster Level Science Exhibition**  
+- 🥇 **1st Place Winner — Cluster Level Science Exhibition**
   Built a **Smart Greenhouse using Arduino Uno and IoT logic**, demonstrating automation and real-world problem solving.
 
-- 🎮 **Certified Game Developer — WhiteHat Jr (2020)**  
+- 🎮 **Certified Game Developer — WhiteHat Jr (2020)**
   Earned a **Game Developer certification** for demonstrating skills and outcomes in **Game Development with a focus on UI/UX interfaces**.
 
 - 🏅 **Olympiads:** Math Olympiad (Class 9), currently preparing for the **Earth Olympiad (Class 10)**.
 
-## 🎯 Long-Term Trajectory
+---
 
-- **Target Universities:** National University of Singapore (NUS) / Nanyang Technological University (NTU)
-- **Core Focus:** Building high-utility software engineering portfolios, intelligent automation frameworks, AI/ML systems, and interactive software experiences.
-- **Goal:** Combine **software engineering, AI, embedded systems, and game development** to build practical and innovative technology.
+## Skills & technologies
 
-## 🚀 What I'm Building Toward
+Arduino • C/C++ • Sensors (DHT11, soil moisture) • Serial logging • Basic electronics • Git & GitHub
 
-I'm continuously learning by turning ideas into working projects — from **Arduino-based automation and IoT systems** to **game development and AI/ML experiments**.
+---
 
-My goal is to build a strong portfolio that demonstrates not just what I have learned, but **what I can create with it**.
+## How to explore my work
+
+1. Browse the Smart-Greenhouse-IOT repo for the full project with wiring diagrams and code.
+2. Check commits and README in each repo for running instructions.
+3. Open an issue or PR if you want to contribute or suggest improvements.
+
+---
+
+## Contact
+
+Email: ronny@example.com  
+LinkedIn: https://www.linkedin.com/in/your-profile (optional)
+
+---
+
+## Next steps I recommend
+
+- Pin the Smart-Greenhouse-IOT and Game-dev-certificate repositories on your profile so visitors see your best work first.
+- Add wiring photos and at least one demo GIF to Smart-Greenhouse-IOT.
+- Add a LICENSE (MIT) and topics to each repo: arduino, iot, sensors, greenhouse
