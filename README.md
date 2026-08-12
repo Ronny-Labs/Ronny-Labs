@@ -1,60 +1,52 @@
 # Hi, I'm Pratyush Pallav Pathak (Ronny) 👋
 
-Student maker focused on Arduino, IoT and small game-dev projects. I build hands-on prototypes and share code and wiring diagrams so others can learn and reuse.
+Student maker and aspiring Software AI / Machine Learning Engineer. I focus on Arduino, IoT automation, and small game-dev projects—building hands-on prototypes and sharing clear code, documentation, and logic so others can learn and build upon them.
 
 ---
 
-## Featured projects
+## 🎯 Target & Future Focus
 
-- **Smart-Greenhouse-IOT** — an Arduino-based greenhouse model with sensor logging and automatic watering. See: https://github.com/Ronny-Labs/Smart-Greenhouse-IOT
-- **Game-dev-certificate** — proof of progress in game development learning and projects. See: https://github.com/Ronny-Labs/Game-dev-certificate
+- 🎓 **Goal:** Preparing for CBSE Boards with an aim toward pursuing **Computer Science (AI & ML)** in **Singapore (NUS / NTU)**.
+- 🤖 **Current Focus:** Deepening core Math foundations while learning **Python** and **C++** to build practical software, ML, and embedded projects.
 
 ---
 
-## 🛠️ Current Tech & Tools
+## 🛠️ Tech & Tools
 
-- **Languages:** Python, C++ (Arduino/Embedded Systems)
-- **Game Development:** Game design, programming, interactive experiences, UI/UX
-- **Frameworks & Systems:** IoT Automation Systems, Logic Design
-- **Interests:** Machine Learning Algorithms, Data Analysis, Game Development & UI/UX
+- **Languages (In Progress):** Python, C++
+- **Frameworks & Systems:** IoT Automation, Logic Design, Sensor Integration
+- **Game Development:** Game Design, Interactive UI/UX, Logic Flow
+- **Core Interests:** Machine Learning Algorithms, AI, Data Analysis, Applied Math
 
 ---
 
 ## 🏆 Key Achievements
 
-- 🥇 **1st Place Winner — Cluster Level Science Exhibition**
-  Built a **Smart Greenhouse using Arduino Uno and IoT logic**, demonstrating automation and real-world problem solving.
-
-- 🎮 **Certified Game Developer — WhiteHat Jr (2020)**
-  Earned a **Game Developer certification** for demonstrating skills and outcomes in **Game Development with a focus on UI/UX interfaces**.
-
-- 🏅 **Olympiads:** Math Olympiad (Class 9), currently preparing for the **Earth Olympiad (Class 10)**.
+- 🥇 **1st Place Winner — Cluster Level Science Exhibition** Designed and built a **Smart Greenhouse using Arduino Uno & IoT logic**, demonstrating sensor automation and environmental monitoring.
+- 🎮 **Certified Game Developer — WhiteHat Jr** Earned a **Game Developer certification** focused on game programming and UI/UX design.
+- 🏅 **Olympiads:** Math Olympiad participant; currently preparing for the **Earth Olympiad**.
 
 ---
 
-## Skills & technologies
+## 🚀 Featured Projects
 
-Arduino • C/C++ • Sensors (DHT11, soil moisture) • Serial logging • Basic electronics • Git & GitHub
-
----
-
-## How to explore my work
-
-1. Browse the Smart-Greenhouse-IOT repo for the full project with wiring diagrams and code.
-2. Check commits and README in each repo for running instructions.
-3. Open an issue or PR if you want to contribute or suggest improvements.
+- **Smart-Greenhouse-IOT** — An Arduino-based greenhouse prototype featuring sensor logging and automated watering logic.  
+  👉 [View Repository](https://github.com/Ronny-Labs/Smart-Greenhouse-IOT)
+- **Game-dev-certificate** — Showcase of progress and projects in game development and interactive logic.  
+  👉 [View Repository](https://github.com/Ronny-Labs/Game-dev-certificate)
 
 ---
 
-## Contact
+## 🧰 Skills & Technologies
 
-Email: ronny@example.com  
-LinkedIn: https://www.linkedin.com/in/your-profile (optional)
+* **Languages:** Python (Learning), C++ (Learning / Arduino)
+* **Hardware & Systems:** Arduino, Basic Electronics, Sensors (DHT11, Soil Moisture), Serial Logging
+* **Tools & Workflow:** Git, GitHub, Logic Design, UI/UX Prototyping
 
 ---
 
-## Next steps I recommend
+## 📌 How to Explore My Work
 
-- Pin the Smart-Greenhouse-IOT and Game-dev-certificate repositories on your profile so visitors see your best work first.
-- Add wiring photos and at least one demo GIF to Smart-Greenhouse-IOT.
-- Add a LICENSE (MIT) and topics to each repo: arduino, iot, sensors, greenhouse
+1. Check out the **Smart-Greenhouse-IOT** repo for full schematics, wiring, and code logic.
+2. Read through project READMEs for quick-start guides and run instructions.
+3. Feel free to open an issue or pull request if you have ideas or suggestions!
