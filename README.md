@@ -24,7 +24,7 @@ Student maker and aspiring Software AI / Machine Learning Engineer. I focus on A
 
 - 🥇 **1st Place Winner — Cluster Level Science Exhibition** Designed and built a **Smart Greenhouse using Arduino Uno & IoT logic**, demonstrating sensor automation and environmental monitoring.
 - 🎮 **Certified Game Developer — WhiteHat Jr** Earned a **Game Developer certification** focused on game programming and UI/UX design.
-- 🏅 **Olympiads:** Math Olympiad participant; currently preparing for the **Earth Olympiad**.
+- 🏅 **Olympiads:** Math Olympiad participant.
 
 ---
 
